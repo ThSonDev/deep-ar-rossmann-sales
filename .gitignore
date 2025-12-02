@@ -4,3 +4,4 @@ _pycache_/
 .vscode
 lightning_logs/
 deepar-notebook.py
+*.html
