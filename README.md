@@ -99,8 +99,8 @@ Configurations are centralized in a `Config` class.
 | Metric |                   Value |
 | ------ | ----------------------: |
 | MAE    |   **796.37** |
-| MAPE   |  **0.1321** |
-| sMAPE  | **0.1526** |
+| MAPE   |  **13.21%** |
+| sMAPE  | **15.25%** |
 | MASE   | **0.3964** |
 | RMSE   |   **1414.95** |
 
